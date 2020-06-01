@@ -7,7 +7,7 @@ User stories are terse descriptions of a feature told from the perspective of th
 
 
 
-![user-story-template](/Users/paulwalk/Dropbox/Working Documents/AntLeaf/Projects/Journal Checker Tool/jct-user-stories_git/user-story-template.png)
+![user-story-template](./user-story-template.png)
 
 
 
