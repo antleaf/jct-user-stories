@@ -1,5 +1,5 @@
 # JCT User Stories
-This repository is for collecting. discussing and categorising user stories supporting the development of the Plan S Journal Tracking Tool.
+This repository is for collecting, discussing and categorising user stories supporting the development of the Plan S Journal Tracking Tool.
 
 ## About User Stories
 
