@@ -1,7 +1,7 @@
 # JCT User Stories
 This repository is for collecting. discussing and categorising user stories supporting the development of the Plan S Journal Tracking Tool.
 
-## About User Stories
+## About User Stories
 
 User stories are terse descriptions of a feature told from the perspective of the person who desires the new capability, usually a **user** of the system. They follow this simple template:
 
